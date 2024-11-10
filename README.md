@@ -4,11 +4,13 @@
 		-Health
 		-Double damage
 		-Shooting speed boost
+  		-Invisible potion
 	Moving enemies
 	Stationary enemies
 	Obstacles/traps:
 		-Pit trap
 		-Pressure plate trap
+  		-Closing spike wall
 
 
 ###### Brainstorm
@@ -31,6 +33,7 @@
 		dustin.shaw@snhu.edu
 		aaron.velez@snhu.edu
 		michael.damico1@snhu.edu
+  		dylan.greenstein@snhu.edu
 
 
 ###### Frequency of communications
@@ -50,3 +53,4 @@
 	Dustin Shaw
 	Aaron Velez
 	Mike Damico
+ 	Dylan Greenstein

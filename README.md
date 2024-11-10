@@ -28,7 +28,6 @@
 ###### Preferred communication methods
 	Email and Discord chat
 	Email list:
-		sierra.perez@snhu.edu
 		dustin.shaw@snhu.edu
 		aaron.velez@snhu.edu
 		michael.damico1@snhu.edu

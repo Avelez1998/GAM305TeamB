@@ -5,8 +5,12 @@
 		-Double damage
 		-Shooting speed boost
   		-Invisible potion
-	Moving enemies
-	Stationary enemies
+	Moving enemies:
+ 		-Shooter/Archer
+   		-Homing explosive enemies
+	Stationary enemies:
+ 		-Turret
+   		-Bomb thrower
 	Obstacles/traps:
 		-Pit trap
 		-Pressure plate trap

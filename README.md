@@ -105,7 +105,7 @@ Obstacles/traps:
 
 
 ###### List of contributers
-	Dustin Shaw
 	Aaron Velez
-	Mike Damico
- 	Dylan Greenstein
+ 	Dustin Shaw
+  	Dylan Greenstein
+   	Mike Damico

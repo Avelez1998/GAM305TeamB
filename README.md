@@ -11,26 +11,24 @@
 	This final testing should occur on the Saturday before our Final submission. Game will be verified against Rubric and Our current testing plan to maintain completeness and all high-priority bugs fixed.
      
 ###### What items will be tested? Include a checklist of items to be tested (pass/fail).
-Feature Test Checklist
--Health
-        -Double damage
-        -Shooting speed boost
-        -Invisible potion
-Moving enemies:
-        -Shooter/Archer
-        -Homing explosive enemies
-Stationary enemies:
-        -Turret
-        -Bomb thrower
-Obstacles/traps:
-        -Pit trap
-        -Pressure plate trap
-        -Closing spike wall
-    • kups:
-        -Health
-        -Double damage
-        -Shooting speed boost
-        -Invisible potion
+	Each feature will be tested by Pass/Fail or CNT (could not test)
+ 	Feature Test Checklist
+
+	Player power-ups/pickups:
+		-Health
+		-Double damage
+		-Shooting speed boost
+  		-Invisible potion
+	Moving enemies:
+ 		-Shooter/Archer
+   		-Homing explosive enemies
+	Stationary enemies:
+ 		-Turret
+   		-Bomb thrower
+	Obstacles/traps:
+		-Pit trap
+		-Pressure plate trap
+  		-Closing spike wall
 Moving enemies:
         -Shooter/Archer
         -Homing explosive enemies

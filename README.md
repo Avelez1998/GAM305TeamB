@@ -1,3 +1,20 @@
+###### Develop a plan for quality assurance and testing your product. In your plan, be sure to include the following:
+###### How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
+            ▪ Play Test: Testing during the preproduction stage
+	    
+            ▪ Demo: Testing before marketing will demo the project
+	    
+            ▪ Code Release: Checking the code release demo with the test plan
+	    
+###### What items will be tested? Include a checklist of items to be tested (pass/fail).
+
+###### How will you update the test plan to reflect changes to the game and design document?
+
+###### How will bugs be reported?
+
+###### How will the bugs and their changes be tracked over time?
+
+
 ###### Choose scenario
 	Third person
 	Player power-ups/pickups:

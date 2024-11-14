@@ -29,16 +29,6 @@
 		-Pit trap
 		-Pressure plate trap
   		-Closing spike wall
-Moving enemies:
-        -Shooter/Archer
-        -Homing explosive enemies
-Stationary enemies:
-        -Turret
-        -Bomb thrower
-Obstacles/traps:
-        -Pit trap
-        -Pressure plate trap
-        -Closing spike wall
 	
 ###### How will you update the test plan to reflect changes to the game and design document?
 	All features will be checked during our weekly meetings on Wednesday. If changes are made, the test plan should be updated to reflect those changes. On Fridays, the test checklist will be evaluated to ensure it aligns with the current goals.

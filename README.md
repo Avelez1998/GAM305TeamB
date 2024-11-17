@@ -1,4 +1,9 @@
 ###### Project Log Module Three
+###### List of contributers
+	Aaron Velez
+ 	Dustin Shaw
+  	Dylan Greenstein
+   	Mike Damico
 ###### Develop a plan for quality assurance and testing your product. In your plan, be sure to include the following:
 ###### How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
 ###### Play Test: Testing during the preproduction stage

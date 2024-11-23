@@ -1,51 +1,50 @@
 ###### Project Log Module Four
-###### List of contributers
-	Aaron Velez
- 	Dustin Shaw
-  	Dylan Greenstein
-   	Mike Damico
+###### List of contributors
+	Aaron Velez  
+ 	Dustin Shaw  
+  	Dylan Greenstein  
+   	Mike Damico  
+
 ###### What parts of the testing process did the team perceive go well?
-	The iterative playtesting during feature implementation was effective. 
-	By testing incrementally, we were able to catch bugs early, reducing 
-	the complexity of fixes later. The use of our testing checklist streamlined 
-	the process, ensuring all features were verified systematically. Specifically, 
-	we made pull requests, branches were pulled down to local and verified 
-	as part of the testing process. This also was a chance to gather some feedback
-	and learn from one another.
-     
+	The iterative playtesting during feature implementation was highly effective.  
+	By testing incrementally, we were able to catch bugs early, reducing the complexity of fixes later.  
+	The testing checklist streamlined the process, ensuring all features were verified systematically.  
+	Specifically, we made pull requests where branches were tested locally before merging, adding an additional  
+	layer of validation. This process also allowed us to gather feedback and learn from one another, enhancing  
+	both collaboration and feature quality.  
+
 ###### How were bugs identified and corrected?
-	When bugs are identified, they are added to GitHub's issue tracker. We 
-	have not had issues to log yet. We have identified bugs with unreals internal 
-	error log, but we have not had any serious bugs. All issues were resolved 
-	during pull requests. We used print statements to verify as we created blueprints.
+	Bugs were tracked using Unreal Engine's internal error logs and debug tools. Although we haven't needed  
+	to log any major issues in GitHub yet, smaller issues were resolved during pull requests.  
+	We also utilized print statements to validate blueprint functionality during development, helping identify  
+	and resolve minor bugs efficiently.  
 
 ###### In terms of the QA and testing process, what would you do differently to improve the process?
-	We would have use the scrum board to make tickets with acceptance criteria. But this project was 
-	small. Our team did utilize our feature list to make sure we tested all features periodically. 
-	Our system seems to be working well on this scale, but any larger and we might start running 
-	into issue. Another way we could improve would be to improve communication: Although GitHub 
-	was effective for logging bugs, clearer communication about bug assignment and status updates 
-	could have further streamlined the process. Since it was a small project we are working on, 
-	we would not rely too much on SCRUM.
-     
+	We would have used the Scrum board to create tickets with acceptance criteria for better organization.  
+	While our process worked well for this small project, a larger project might face scalability issues.  
+	Another area for improvement would be communication: While GitHub was effective for logging bugs,  
+	clearer communication about bug assignments and status updates could further streamline the process.  
+
 ###### What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
-	Testing Checklist: The checklist ensured that every feature was tested systematically, reducing the chance 
-	of overlooking key functionality. Game Engine Debugging Tools: Built-in debugging tools helped identify 
-	runtime errors and performance issues, particularly during final playtests. Finally, feature branching to 
-	verify each branch before merging. Double checking made the process very smooth for our team.
-	
+	Testing Checklist: The checklist ensured that every feature was tested systematically, reducing the chance  
+	of missing critical functionality.  
+	Game Engine Debugging Tools: Unreal Engine's built-in debugging tools were invaluable for identifying runtime  
+	errors and performance issues, particularly during final playtests.  
+	Feature Branching: Using feature branches and verifying each branch before merging ensured smooth integration  
+	and reduced conflicts, making the process efficient for our team.  
+
 ###### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-	We did not use the SCRUM board. We recognized the usefulness of this tool, however, the list of features was easily
-	split up and assigned and we had time constraints that made it not be worth the resources to implement. Given a project
-	any larger with a little more time, this would have been a excellent way to improve communication and better define features.
+	We did not use the Scrum board. While we recognize its potential for larger projects, the small scope and  
+	limited timeline made it unnecessary. Splitting and assigning tasks directly worked well for this project.  
+	However, a Scrum board could significantly improve communication and feature definition in larger projects.  
 
 ###### How did the team approach to the initial analysis of the game design document contribute to the decision 
 ###### to use these tools and techniques?
-	The thorough analysis of the game design document allowed us to identify core gameplay mechanics, 
-	features, and potential risks early. This guided the selection of tools like GitHub for issue 
-	tracking and the structured checklist for feature validation. The clarity from the design document 
-	also helped us prioritize critical features, aligning our QA efforts with project goals. 
-    and for a smaller project, it just made sense to use what was available and easy.
+	The thorough analysis of the game design document allowed us to identify core gameplay mechanics, features,  
+	and potential risks early. This clarity guided the selection of tools like GitHub for issue tracking and the  
+	structured checklist for feature validation. For a smaller project, using simple, effective tools aligned  
+	with our timeline and goals. This approach ensured our QA efforts were efficient without adding unnecessary  
+	complexity.
 
 ###### Project Log Module Three
 ###### List of contributers

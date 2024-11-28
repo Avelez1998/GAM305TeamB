@@ -1,3 +1,41 @@
+###### Module Five Project Log - Team Reflection
+###### List of contributors
+	Aaron Velez  
+	Dustin Shaw  
+	Dylan Greenstein  
+	Mike Damico  
+
+###### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+	Our iterative testing process and feature verification went smoothly. By using pull requests and locally testing  
+	each branch before merging, we maintained high code quality and reduced conflicts.  
+	The testing checklist continued to be a reliable guide for ensuring systematic feature validation.  
+	Communication during weekly meetings helped us stay aligned and provided clarity on tasks and progress.  
+
+###### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+	While our testing process was effective, we encountered delays due to unclear ownership of some tasks.  
+	Occasionally, features were tested late due to prioritization shifts, which introduced minor bottlenecks.  
+	We also noted that the testing checklist did not account for some edge cases, leading to gaps in testing.  
+
+###### How were the previous evaluations wrapped into this latest stage?
+	Feedback from the previous evaluation emphasized the importance of a structured workflow, which we  
+	continued to refine. The use of pull requests, feature branches, and testing checklists were incorporated  
+	more consistently. Additionally, communication about task ownership improved slightly, though it  
+	remains an area for further optimization.  
+
+###### What would you do differently to improve the process?
+	- **Refine Task Ownership:** Establish clearer task ownership by assigning specific team members to features  
+	  or components. This could prevent delays and confusion.  
+	- **Expand the Testing Checklist:** Include additional test cases, particularly for edge cases and scenarios  
+	  that emerged during development.  
+	- **Implement Scrum-like Techniques:** Although the project is small, a simplified Scrum process with  
+	  acceptance criteria and tracking could enhance clarity and accountability.  
+
+###### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+	While the testing checklist and GitHub tools were effective, we still found the lack of a Scrum board or  
+	other visual tracking system to be a gap. Direct task assignments worked well for the project’s size but  
+	became less effective as the project evolved. In hindsight, introducing a lightweight version of Scrum  
+	or a Kanban board could have better supported the team’s organization and communication.  
+ 
 ###### Project Log Module Four
 ###### List of contributors
 	Aaron Velez  

@@ -1,3 +1,23 @@
+###### Module Six Project Log - Team Reflection
+###### List of contributors
+	Aaron Velez  
+	Dustin Shaw  
+	Dylan Greenstein  
+	Mike Damico
+###### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+We were able to add textures and animate the game to make it look a lot less like a prototype. We kept our initial game name “Dungeon Disco” and added a disco ball at the end to build off that name.
+
+###### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+It went relatively smooth because we checked each others work. This allowed us to catch some untextured parts of the level. The biggest issue maybe our inexperience with Git and GitHub.
+
+###### How were the previous evaluations wrapped into this latest stage?
+
+###### What would you do differently to improve the process?
+It would have been nice to set up a Kanban Board to track progress on features.
+
+###### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+This issue tracker was not super useful because this project took place over just a few weeks. We ended up resolving most issues as we came across them.
+
 ###### Module Five Project Log - Team Reflection
 ###### List of contributors
 	Aaron Velez  

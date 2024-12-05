@@ -5,18 +5,24 @@
 	Dylan Greenstein  
 	Mike Damico
 ###### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-We were able to add textures and animate the game to make it look a lot less like a prototype. We kept our initial game name “Dungeon Disco” and added a disco ball at the end to build off that name.
+The team made significant progress in adding textures and animations, which improved the game’s appearance and moved it further away from looking like a prototype. The addition of the disco ball at the end ties nicely into the retained game name, “Dungeon Disco,” reinforcing the thematic connection. Collaboration also went well, as team members reviewed each other’s work, helping to catch and address untextured parts of the level before finalization.
 
 ###### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-It went relatively smooth because we checked each others work. This allowed us to catch some untextured parts of the level. The biggest issue maybe our inexperience with Git and GitHub.
+Overall, the process went relatively smoothly, thanks to the team’s cooperative efforts in checking each other’s contributions. However, the project still lacks a cohesive art direction, as many placeholders remain, and lighting adjustments or additional assets were not implemented due to time constraints.
 
 ###### How were the previous evaluations wrapped into this latest stage?
+Lessons from prior evaluations about aligning gameplay and visuals were applied by integrating textures and animations that complement the core mechanics. The iterative process of refining and validating work across team members also built on earlier feedback, ensuring a more polished product.
 
 ###### What would you do differently to improve the process?
-It would have been nice to set up a Kanban Board to track progress on features.
+Several changes could enhance the process in future projects:
+
+* Establishing a Kanban board to better track progress on features, as suggested by the team, would improve organization and accountability.
+* Allocating time earlier in the pipeline to reduce reliance on placeholders and establish a unified art direction.
+* Providing additional resources or training on Git and GitHub to address technical inexperience and streamline collaboration.
+* Dedicating time specifically for lighting passes to create a more immersive environment.
 
 ###### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-This issue tracker was not super useful because this project took place over just a few weeks. We ended up resolving most issues as we came across them.
+The GitHub issue tracker was not particularly effective due to the short timeline of the project. Most issues were resolved immediately as they arose, making the issue tracker less relevant for this context. Additionally, the lack of a Kanban board made tracking feature progress less efficient than it could have been. While the tools used were sufficient for the project’s scale, better planning and alternative tools could have provided more structure and clarity.
 
 ###### Module Five Project Log - Team Reflection
 ###### List of contributors
